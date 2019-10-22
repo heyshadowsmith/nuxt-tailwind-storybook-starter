@@ -1,3 +1,5 @@
+![Nuxt Tailwind Storybook Starter](https://github.com/TheShadowSmith/nuxt-tailwind-storybook-starter/blob/master/assets/logo.png "Nuxt Tailwind Storybook Starter")
+
 # About Nuxt Tailwind Storybook Starter
 Nuxt Tailwind Storybook Starter is a starter template for adding Storybook to a Nuxt.js project using Tailwind.
 
